@@ -7,5 +7,5 @@ for ($i = 1; $i <= $HowManyTimesIsAdrianAwesome; $i++) {
 }
 
 function get_message(int $index) : string {
-	return "Adrian is awesome ".$index." time \n";
+	return "Adrian is awesome ".$index." time(s) \n";
 }
